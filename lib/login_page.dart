@@ -6,7 +6,7 @@ class LoginPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
           body: Center(child:
-        Text('Sirsho\'s Login Screen with green theme',style: TextStyle(fontSize: 30),),
+        Text('Login Screen with green theme',style: TextStyle(fontSize: 30),),
         
       ),
     );
